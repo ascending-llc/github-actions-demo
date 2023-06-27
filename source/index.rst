@@ -10,9 +10,9 @@ GitHub Actions Demo
 TL;DR
 ======
 
-GitHub Actions is a set of convenient features to help users run shell commands on a fresh VM for CICD.
+GitHub Actions is a set of convenient features to help users run shell commands on a fresh VM for CI/CD.
 
-.. tip:: If we use these features well, we can reduce both cost and CICD processing time, and improve developers'
+.. tip:: If we use these features well, we can reduce both cost and CI/CD processing time, and improve developers'
    experience.
 
 Overview
